@@ -245,11 +245,11 @@ The project allowed me to practice transforming raw transactional data into mean
 
 ## 👤 Author
 
-**[Your Name]**
+Pavithra Gopinath
 
-Aspiring Data Analyst / Data Scientist
+Masters in Data Science, AI and Digital Business
 
-* GitHub: [Your GitHub Profile](https://github.com/your-username)
+
 * LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
 
 ---
